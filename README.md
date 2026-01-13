@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm g! 👋
 
-<!--
-**ggsousa/ggsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Tech Enthusiast and HomeLabber focused on virtualization, networking, and high-performance hardware.
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
+- **Virtualization:** Proxmox VE (Mixed Xeon/Ryzen Cluster)
+- **Networking:** TP-Link Omada (ER605 + EAPs), AdGuard Home, WireGuard
+- **Hardware:** Ryzen 9800x3D (Main), i7 7820x X299 (Hackintosh), Xeon 2680V4 (Server)
+- **Automation:** Home Assistant + Zigbee/WiFi sensors
+- **OS:** macOS Sequoia (Native X299), Windows 11, Kali Linux, Arch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏠 Project Spotlight
+- [my-homelab](https://github.com/ggsousa/my-homelab): Documentation of my complete network and server infrastructure.
+
+## 📫 How to reach me
+- **Reddit:**
+- Check out my repo to see what I'm currently self-hosting!
