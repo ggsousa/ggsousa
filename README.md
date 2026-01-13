@@ -3,7 +3,7 @@
 I'm a Tech Enthusiast and HomeLabber focused on virtualization, networking, and high-performance hardware.
 
 ## 🛠️ My Tech Stack
-- **Virtualization:** Proxmox VE (Mixed Xeon/Ryzen Cluster)
+- **Virtualization:** Proxmox VE
 - **Networking:** TP-Link Omada (ER605 + EAPs), AdGuard Home, WireGuard
 - **Hardware:** Ryzen 9800x3D (Main), i7 7820x X299 (Hackintosh), Xeon 2680V4 (Server)
 - **Automation:** Home Assistant + Zigbee/WiFi sensors
