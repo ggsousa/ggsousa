@@ -1,17 +1,63 @@
-# Hi, I'm g! 👋
+# 👋 Hi, I'm *G*
 
-I'm a Tech Enthusiast and HomeLabber focused on virtualization, networking, and high-performance hardware.
+🚀 Tech Enthusiast | HomeLab Engineer | Automation & Networking
 
-## 🛠️ My Tech Stack
-- **Virtualization:** Proxmox VE - X99 / Xeon 2680V4 / 64GB DDR4 ECC / 512NVMe + 2x1TB HDD
-- **Networking:** TP-Link Omada (ER605 + Tl-SG2210MP + 2x EAP 670), AdGuard Home (DNS), WireGuard (VPN)
-- **Hardware:** Ryzen 9800x3D - X870 (Main), i7 7820x - X299 (Hackintosh), Xeon 2680V4 - X99 (Server), Ryzen 7 5700x - B450 (Gaming for TV/"Console")
-- **Automation:** Home Assistant + Zigbee/Tuya sensors (VLAN IoT)
-- **OS:** macOS Sequoia (X299), Windows 11 (AM5 / AM4), Kali Linux, Arch (VM)
+I build and maintain a full self-hosted infrastructure focused on performance, security and automation — from Proxmox virtualization to segmented VLAN networks and smart home systems.
+
+---
+
+## ⚙️ My Tech Stack
+
+### 🖥️ Virtualization & Servers
+- Proxmox VE (X99 / Xeon E5-2680 v4)
+- 64GB+ ECC RAM | NVMe + HDD storage
+- Multiple VMs & LXC (Docker, services, automation)
+
+### 🌐 Networking
+- TP-Link Omada (ER605 + SG2210MP + 2x EAP 723)
+- VLAN segmentation (Main / IoT / Servers)
+- AdGuard Home (DNS + filtering)
+- WireGuard VPN
+
+### 🧠 Automation
+- Home Assistant
+- Zigbee / Tuya ecosystem
+- Smart sensors (temperature, humidity, energy monitoring)
+
+### 💻 Hardware
+- Main: Ryzen 7 9800X3D (X870) + **RTX 3060Ti + 32GB RAM**
+- Hackintosh: i7-7820X (X299) + **RX 5700XT + 80GB RAM**
+- Server: Xeon 2680 v4 (X99)
+- Retro Console Setup: Ryzen 7 5700X + RX 580 + TV gaming
+- PS5 Slim + PS Portal
+
+### 🧩 OS & Systems
+- macOS Sequoia (Hackintosh)
+- Windows 11
+- Linux Ubuntu SV (Arch, Kali, Zorin... in VMs)
+
+---
 
 ## 🏠 Project Spotlight
-- [my-homelab](https://github.com/ggsousa/my-homelab): Documentation of my complete network and server infrastructure.
 
-## 📫 How to reach me
-- **Reddit:**
-- Check out my repo to see what I'm currently self-hosting!
+🔗 **my-homelab**  
+Full documentation of my infrastructure:
+- Network architecture (VLANs, routing, security)
+- Services (DNS, proxy, media, automation)
+- Monitoring & integrations
+
+---
+
+## 📡 What I'm working on
+
+- Expanding my self-hosted ecosystem
+- Improving network segmentation & security
+- Integrating services with dashboards (Grafana / Home Assistant)
+- Automating everything possible
+
+---
+
+## 📬 Contact
+
+- Reddit
+- GitHub projects
