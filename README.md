@@ -27,7 +27,7 @@ I build and maintain a full self-hosted infrastructure focused on performance, s
 ### 💻 Hardware
 - Main: Ryzen 7 9800X3D (X870) + **RTX 3060Ti + 32GB RAM**
 - Hackintosh: i7-7820X (X299) + **RX 5700XT + 80GB RAM**
-- Server: Xeon 2680 v4 (X99)
+- Server: Xeon 2680 v4 (X99) + **GTX 1660Ti + 64GB RAM**
 - Retro Console Setup: Ryzen 7 5700X + RX 580 + TV gaming
 - PS5 Slim + PS Portal
 
